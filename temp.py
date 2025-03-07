@@ -7,13 +7,13 @@ import math
 
 Val = 3.14
 sqrtVal = math.sqrt(Val)
-print(sqrtVal) #sqrtVal^2
+print(sqrtVal)  # sqrtVal^2
 
-expVal = math.exp(Val)#e^(val)
+expVal = math.exp(Val)  # e^(val)
 
 print(expVal)
 
-factVal = math.factorial(math.floor(Val)) #5! =
+factVal = math.factorial(math.floor(Val))  # 5! =
 
 print(factVal)
 
